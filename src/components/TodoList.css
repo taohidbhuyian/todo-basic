@@ -1,0 +1,21 @@
+.completed {
+    text-decoration: line-through;
+  }
+  
+  .status {
+    margin-left: 10px;
+    color: green;
+  }
+
+li{
+    list-style: none;
+  }
+.taskDiscription{
+    text-align: center;
+    font-weight: 500;
+    padding: 10px;
+}  
+.myvh{
+    height: 70vh;
+    background-color: rgb(235, 223, 223);
+}
